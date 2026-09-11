@@ -103,4 +103,9 @@ var collectableList = {
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
   pizza: { image: "images/collectables/pizza.png" },
+  blue: { image : "images/collectables/Collectable_Blue.webp"},
+  yellow: { image : "images/collectables/Collectable_Yellow.webp"},
+  aqua: { image : "images/collectables/Collectable_Aqua.webp"},
+  green: { image : "images/collectables/Collectable_Green.webp"},
+  orange: { image : "images/collectables/Collectable_Orange.webp"},
 };
