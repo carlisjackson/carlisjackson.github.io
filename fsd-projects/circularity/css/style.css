@@ -1,5 +1,5 @@
 body {
-    background-image: url("../img/Circularity_Background.png") no-repeat center center fixed;
+    background-image: url("../img/Circularity_Background.png");
     background-color: #cccccc;
     -webkit-background-size: cover;
     -moz-background-size: cover;
